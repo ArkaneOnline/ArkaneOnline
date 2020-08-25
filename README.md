@@ -1,6 +1,6 @@
 <center>
-### Hi there 👋
-My name is Arkane, a developer just trying to figure everything out.
+  <h1>Hi there 👋</h1>
+  My name is Arkane, a developer just trying to figure everything out.
 </center>
 
 #### GitHub Stats
