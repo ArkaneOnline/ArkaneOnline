@@ -1,6 +1,6 @@
 <center>
   <h1>Hi there 👋</h1>
-  My name is Arkane, a developer creating things that server no purpose for fun.
+  My name is Arkane, a developer creating things that serve no purpose for fun.
 </center>
 
 #### GitHub Stats
