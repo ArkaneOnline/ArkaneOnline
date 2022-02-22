@@ -1,11 +1,7 @@
-<center>
-  <h1>Hi there 👋</h1>
-  My name is Arkane, a developer creating things that serve no purpose for fun.
-</center>
-
-#### GitHub Stats
-![Arkanes's github stats](https://github-readme-stats.vercel.app/api?username=ArkaneOnline&theme=dracula) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaneOnline&theme=dracula)
+# Hi there 👋
+My name is Arkane, a developer creating things that serve no purpose for fun. <br>
+I make Discord Bots and Full Stack Websites. <br>
+Check my pinned repositories for the stuff I'm currently working on.
 
 
 <!--
