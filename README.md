@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hello 👋
 My name is Arkane, a developer creating things that serve no purpose for fun. <br>
-I make Discord Bots and Full Stack Websites. <br>
+I specialize in JavaScript and literally nothing else. <br>
 Check my pinned repositories for the stuff I'm currently working on.
 
 
